@@ -1,0 +1,5 @@
+{
+  "name": "Screen Time Visualizer",
+  "description": "A dashboard visualizing daily screen time usage, app breakdowns, and weekly trends.",
+  "requestFramePermissions": []
+}
